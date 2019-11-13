@@ -1,0 +1,6 @@
+*.pyc
+*/lib/*
+*/bin/*
+*/include/*
+.cache
+__pycache__/
