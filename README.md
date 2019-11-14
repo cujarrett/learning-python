@@ -91,6 +91,7 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
 - [Strings](./strings.py)
 
 #### Things I like
+- Simple
 
 #### Things I dislike
 - Python's package ecosystem doesn't seem to all use [Semantic Versioning](https://semver.org/) (example: idna as 2.8)
