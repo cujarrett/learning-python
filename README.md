@@ -89,7 +89,7 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
 - Use `None` for null check in Python. Use a `foo is None` check for performace vs. slower and more process heavy ` foo == None` as `foo is None` checks the id and it exits with less process needed.
 
 - [Strings](./strings.py)
-- [Manipulate and Search Strings with Python Methods](./manipulate-and-search-strings-with-python-methods.py)
+- [String Manipulation](./string-manipulation.py)
 
 #### Things I like
 - Simple
