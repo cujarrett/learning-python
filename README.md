@@ -86,6 +86,7 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
 - [Conditionals](./conditionals.py)
 - [Loops](./loops.py)
 - [Relational Operators](./relational-operator.py)
+- [Lists](./lists.py)
 
 #### Things I like
 - Simple

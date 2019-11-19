@@ -6,7 +6,7 @@
 3 < 5 # True
 5 >= 3 # True
 5 >= 5 # True
-[1,2,4] > [1,2,3] # True
+[1, 2, 4] > [1, 2, 3] # True
 1 < 2 and 5 > 4 # True
 (1 < 2) and (5 > 4) # True
 1 > 2 or 5 > 4 # True
@@ -26,16 +26,16 @@ a = True
 b = True
 a is b # True, the id for a and b are the same
 
-x = [1,2,3]
-y = [1,2,3]
+x = [1, 2, 3]
+y = [1, 2, 3]
 x is y # False, the id for x and y are different
 
 # in
-x = [1,2,3]
+x = [1, 2, 3]
 3 in x # True
 5 in x # False
 
-x = [1,2,3]
+x = [1, 2, 3]
 for value in x:
   if (value == 2):
     print("Value is 2") # Value is 2
