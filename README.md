@@ -6,7 +6,7 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
 
 #### Take Aways
 - Python comes on a lot of OS's by default but it's more common to fund Python 2 instead of Python 3.
-- Python `Virtual Environments` allow you to specify a specific version of Python for that use. Requires first installing virtualenv via `pip install virtualenv`.
+- Python `Virtual Environments` allow you to specify a specific version of Python for that use. Requires first installing `virtualenv` via `pip install virtualenv`.
 
   Example creation of Python `Virtual Environments`
   ```
@@ -46,19 +46,12 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
   ```
 
 - `pip install` vs. `import`
-  `pip install` brings the depenendency local for runtime where as `import` uses a looked up asset via putting it somewhere python can expect it to be.
-
-  - Uploading a photo to the internet = `pip install`
-  - Linking the photo URL inside an HTML page = `import`
-
-  > Good analogy from [@Darien on stackoverflow](https://stackoverflow.com/questions/18884331/difference-between-installing-and-importing-modules)
-
-  Does a `import`ed asset offer runtime risk of the asset missing?
+  `pip install` brings the dependency local for runtime where as `import` uses a looked up asset via putting it somewhere python can expect it to be.
 
 - In Python everything has a id. The id property is immutable.
 - In Python everything has a value.
 
-  Break down of which types are immutable vs. mutable
+- Immutable vs. Mutable Types
 
   | Class      | Description                          | Immutable          |
   |------------|--------------------------------------|--------------------|
@@ -86,13 +79,17 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
   id(a) # 4321639456
   ```
 
-- Use `None` for null check in Python. Use a `foo is None` check for performace vs. slower and more process heavy ` foo == None` as `foo is None` checks the id and it exits with less process needed.
+- Use `None` for null check in Python. Use a `foo is None` check for performance vs. slower and more process heavy ` foo == None` as `foo is None` checks the id and it exits with less process needed.
 
 - [Strings](./strings.py)
 - [String Manipulation](./string-manipulation.py)
+- [Conditionals](./conditionals.py)
+- [Loops](./loops.py)
+- [Relational Operators](./relational-operator.py)
 
 #### Things I like
 - Simple
+- Forces good styling as there is no braces used
 
 #### Things I dislike
 - Python's package ecosystem doesn't seem to all use [Semantic Versioning](https://semver.org/) (example: idna as 2.8)
