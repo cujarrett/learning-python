@@ -5,4 +5,7 @@
 .cache
 __pycache__/
 .vscode
-.py3
+py3
+
+# Mac specific
+.DS_store
