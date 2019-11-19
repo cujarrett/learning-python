@@ -4,4 +4,5 @@
 */include/*
 .cache
 __pycache__/
-.vscode/*
+.vscode
+.py3
