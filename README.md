@@ -91,6 +91,7 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
 - [List Comprehensions](./list-comprehensions.py)
 - [Dictionaries](./dictionaries.py)
 - [Tuples](./tuples.py)
+- [Sets](./sets.py)
 
 #### Things I like
 - Simple
