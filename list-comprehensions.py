@@ -17,8 +17,8 @@ for sale in sales:
   sales_with_tax.append(sale * 1.07) # [3.3598000000000003, 8.5493, 11.759300000000001, 1.0593000000000001, 1.3268]
 print(sales_with_tax)
 
-sale2 = [sale * 1.07 for sale in sales]
-print(sale2) # [3.3598000000000003, 8.5493, 11.759300000000001, 1.0593000000000001, 1.3268]
+sales_with_tax = [sale * 1.07 for sale in sales]
+print(sales_with_tax) # [3.3598000000000003, 8.5493, 11.759300000000001, 1.0593000000000001, 1.3268]
 
 new2 = [
   animal
