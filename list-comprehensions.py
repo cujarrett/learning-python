@@ -23,6 +23,6 @@ print(sale2) # [3.3598000000000003, 8.5493, 11.759300000000001, 1.05930000000000
 new2 = [
   animal
   for animal in zoo_animals
-  if animal not in my_animals
+  if (animal not in my_animals)
 ]
 print(new2) # ['giraffe', 'elephant', 'lion', 'horse', 'aadvark']
