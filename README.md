@@ -88,6 +88,7 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
 - [Relational Operators](./relational-operator.py)
 - [Lists](./lists.py)
 - [List Slice](./list-slice.py)
+- [List Comprehensions](./list-comprehensions.py)
 
 #### Things I like
 - Simple
