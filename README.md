@@ -90,6 +90,7 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
 - [List Slice](./list-slice.py)
 - [List Comprehensions](./list-comprehensions.py)
 - [Dictionaries](./dictionaries.py)
+- [Tuples](./tuples.py)
 
 #### Things I like
 - Simple
