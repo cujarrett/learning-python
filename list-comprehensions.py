@@ -25,4 +25,4 @@ new2 = [
   for animal in zoo_animals
   if (animal not in my_animals)
 ]
-print(new2) # ['giraffe', 'elephant', 'lion', 'horse', 'aadvark']
+print(new2) # ["giraffe", "elephant", "lion", "horse", "aadvark"]
