@@ -87,7 +87,7 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
 - [Loops](./loops.py)
 - [Relational Operators](./relational-operator.py)
 - [Lists](./lists.py)
-- [Lists Slice](./lists-slice.py)
+- [List Slice](./list-slice.py)
 
 #### Things I like
 - Simple
