@@ -95,6 +95,6 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
 - Forces good styling as there is no braces used
 
 #### Things I dislike
-- Python's package ecosystem doesn't seem to all use [Semantic Versioning](https://semver.org/) (example: idna as 2.8)
-- Text file for dependency details feels insufficient
+- Python's package ecosystem doesn't seem to all use [Semantic Versioning](https://semver.org/) (example: `idna` as `2.8`)
+- Text file for dependency details feels lackluster
 - underscore as multi word variable convention (`sum_of_two_numbers = 1 + 3`) :expressionless:
