@@ -92,6 +92,7 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
 - [Dictionaries](./dictionaries.py)
 - [Tuples](./tuples.py)
 - [Sets](./sets.py)
+- [Logging](./logging.py)
 
 #### Things I like
 - Simple
