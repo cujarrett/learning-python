@@ -93,6 +93,7 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
 - [Tuples](./tuples.py)
 - [Sets](./sets.py)
 - [Logging](./logging.py)
+- [Command Line Input](./cli-input.py)
 
 #### Things I like
 - Simple
