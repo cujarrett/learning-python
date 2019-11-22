@@ -100,7 +100,7 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
 - Simple
 - Forces good styling as there is no braces used
 - Key word arguments
-  ```
+  ```python
   def madlibs(name, noun = "shoes", adjective = "red"):
     return "{0} has {1} {2}".format(name, adjective, noun)
   madlib = madlibs("Will", adjective="black", noun="boots")
