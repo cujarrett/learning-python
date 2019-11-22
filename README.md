@@ -94,10 +94,18 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
 - [Sets](./sets.py)
 - [Logging](./logging.py)
 - [Command Line Input](./cli-input.py)
+- [Functions](./functions.py)
 
 #### Things I like
 - Simple
 - Forces good styling as there is no braces used
+- Key word arguments
+  ```
+  def madlibs(name, noun = "shoes", adjective = "red"):
+    return "{0} has {1} {2}".format(name, adjective, noun)
+  madlib = madlibs("Will", adjective="black", noun="boots")
+  print(madlib) # Will has black boots
+  ```
 
 #### Things I dislike
 - Python's package ecosystem doesn't seem to all use [Semantic Versioning](https://semver.org/) (example: `idna` as `2.8`)
