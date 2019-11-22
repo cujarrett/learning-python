@@ -9,35 +9,35 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
 - Python `Virtual Environments` allow you to specify a specific version of Python for that use. Requires first installing `virtualenv` via `pip install virtualenv`.
 
   Example creation of Python `Virtual Environments`
-  ```
+  ```sh
   # virtualenv <folder to create> <path to desired python version install>
   virtualenv py3 -p /usr/local/bin/python3
   ```
 
   Example activation of Python `Virtual Environments`
-  ```
+  ```sh
   # <folder created above via >/bin/activate
   py3/bin/activate
   ```
 
   Example deactivation of Python `Virtual Environments`
-  ```
+  ```sh
   deactivate
   ```
 
 - Python's package manager `pip` manages dependencies. It leverages a `requirments.txt` file detailing project dependencies.
 
   Example package install
-  ```
+  ```sh
   pip freeze > requirements.txt
   ```
 
   Example pip `requirments.txt` file
-  ```
+  ```sh
   cat requirements.txt
   ```
 
-  ```
+  ```python
   certifi==2019.9.11
   chardet==3.0.4
   idna==2.8
@@ -65,14 +65,14 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
   | fronzenset | immutable form of set class          | :white_check_mark: |
   | dict       | associative mapping (aka dictionary) |                    |
 
-  ```
+  ```python
   b = []
   b(id) # 4527447816
   b.append(3)
   print(b) # [3]
   ```
 
-  ```
+  ```python
   a = 4
   id(a) # 4321639424
   a = a + 1
