@@ -100,6 +100,7 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
 - [Writing To A File](./writing-to-a-file.py)
 - [Error Handling](./error-handling.py)
 - [Scopes](./scopes.py)
+- [Classes](./classes.py)
 
 #### Things I like
 - Simple
