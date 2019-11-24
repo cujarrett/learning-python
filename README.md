@@ -1,5 +1,3 @@
-# Work in Progress (WIP)
-
 ## What is it?
 It's a small set of hacks to learn the the basics of [Python](https://www.python.org/). Python is powerful, fast,
 plays well with others, runs everywhere, is friendly & easy to learn, is Open. I'm using Python 3.7.5 for this project (current LTS).
