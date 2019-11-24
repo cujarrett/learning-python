@@ -96,7 +96,7 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
 - [Command Line Input](./cli-input.py)
 - [Functions](./functions.py)
 - [Modules](./modules.py)
-- [File IO](./file-io.py)
+- [Reading From A File](./reading-from-a-file.py)
 
 #### Things I like
 - Simple
