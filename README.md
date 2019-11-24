@@ -100,12 +100,12 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
 - [Scopes](./scopes.py)
 - [Classes](./classes.py)
 
-- pip useful commands
-  `pip install <package-name>` to install a package
-  `pip list` to list all packages installed to the current virtual environment
-  `pip search <package-name>` can be used to search packages available
-  `pip list --outdated` show out of date dependencies
-  `pip uninstall <package-name> ` to uninstall package
+- `pip` useful commands
+  - `pip install <package-name>` to install a package
+  - `pip list` to list all packages installed to the current virtual environment
+  - `pip search <package-name>` can be used to search packages available
+  - `pip list --outdated` show out of date dependencies
+  - `pip uninstall <package-name> ` to uninstall package
 
 #### Things I like
 - Simple
