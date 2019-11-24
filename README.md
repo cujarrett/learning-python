@@ -98,6 +98,7 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
 - [Modules](./modules.py)
 - [Reading From A File](./reading-from-a-file.py)
 - [Writing To A File](./writing-to-a-file.py)
+- [Error Handling](./error-handling.py)
 
 #### Things I like
 - Simple
