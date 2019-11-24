@@ -3,7 +3,7 @@ It's a small set of hacks to learn the the basics of [Python](https://www.python
 plays well with others, runs everywhere, is friendly & easy to learn, is Open. I'm using Python 3.7.5 for this project (current LTS).
 
 #### Take Aways
-- Python comes on a lot of OS's by default but it's more common to fund Python 2 instead of Python 3.
+- Python comes on a lot of OS's by default but it's more common to find Python 2 instead of Python 3.
 - Python `Virtual Environments` allow you to specify a specific version of Python for that use. Requires first installing `virtualenv` via `pip install virtualenv`.
 
   Example creation of Python `Virtual Environments`
