@@ -43,8 +43,7 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
   urllib3==1.25.7
   ```
 
-- `pip install` vs. `import`
-  `pip install` brings the dependency local for runtime where as `import` uses a looked up asset via putting it somewhere python can expect it to be.
+- `pip install` vs. `import`? `pip install` brings the dependency local for runtime where as `import` uses a looked up asset via putting it somewhere python can expect it to be.
 
 - In Python everything has a id. The id property is immutable.
 - In Python everything has a value.
