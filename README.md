@@ -99,6 +99,7 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
 - [Reading From A File](./reading-from-a-file.py)
 - [Writing To A File](./writing-to-a-file.py)
 - [Error Handling](./error-handling.py)
+- [Scopes](./scopes.py)
 
 #### Things I like
 - Simple
@@ -111,7 +112,8 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
   print(madlib) # Will has black boots
   ```
 
-#### Things I dislike
+#### Things I'm not a huge fan of
 - Python's package ecosystem doesn't seem to all use [Semantic Versioning](https://semver.org/) (example: `idna` as `2.8`)
 - Text file for dependency details feels lackluster
 - underscore as multi word variable convention (`sum_of_two_numbers = 1 + 3`) :expressionless:
+- `global`, `nonlocal`, and local varibales are confusing solution that feels clumsier than just having scopes be blocked at first glance. I'm sure there's cool things you could do with it in principal, but I also feel like you'd be a jerk if you actually used them.
