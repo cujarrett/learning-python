@@ -95,6 +95,7 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
 - [Logging](./logging.py)
 - [Command Line Input](./cli-input.py)
 - [Functions](./functions.py)
+- [Modules](./modules.py)
 
 #### Things I like
 - Simple
