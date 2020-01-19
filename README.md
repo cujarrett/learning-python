@@ -2,7 +2,7 @@
 It's a small set of hacks to learn the basics of [Python](https://www.python.org/). Python is powerful, fast,
 plays well with others, runs everywhere, is friendly & easy to learn, is Open. I'm using Python 3.7.5 for this project (current LTS).
 
-#### Take Aways
+## Take Aways
 - Python comes on a lot of OS's by default but it's more common to find Python 2 instead of Python 3.
 - Python `Virtual Environments` allow you to specify a specific version of Python for that use. Requires first installing `virtualenv` via `pip install virtualenv`.
 
@@ -106,7 +106,7 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
   - `pip list --outdated` show out of date dependencies
   - `pip uninstall <package-name> ` to uninstall package
 
-#### Things I like
+## Things I like
 - Simple
 - Forces good styling as there is no braces used
 - Key word arguments
@@ -117,7 +117,7 @@ plays well with others, runs everywhere, is friendly & easy to learn, is Open. I
   print(madlib) # Will has black boots
   ```
 
-#### Things I'm not a huge fan of
+## Things I'm not a huge fan of
 - Python's package ecosystem doesn't seem to all use [Semantic Versioning](https://semver.org/) (example: `idna` as `2.8`)
 - Text file for dependency details feels lackluster
 - Underscore as multi word variable convention (`sum_of_two_numbers = 1 + 3`) :expressionless:
